@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+--- documentaion for what i have done----
+
+first i have created a trial_login branch for the initial purpose for understanding what will i get in response if i have posted the email and the password and moving to another screen if i got the response i have implemnted without any statemangaement this branch is only for the trail
